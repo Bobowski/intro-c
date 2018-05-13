@@ -18,5 +18,6 @@ Oh.. for developer environment I'll just use gcc on some linux distro. If you us
 1. [Functions & Pointers](ex02.md) - *"Write function for this... Write function for that..."*
 1. [Some practice](ex03.md) - *"Let's recap..."*
 1. [Structures](ex04.md) - *"Structures... so many..."*
+1. [Linked Lists](ex05.md) - *"Single linked list... double linked list..."*
 
 
